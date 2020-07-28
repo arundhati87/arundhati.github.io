@@ -1,0 +1,288 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Sounak Dey
+    tagline: PhD Student
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sdey@cvc.uab.cat
+    phone: +34 93 581 1828
+    website: cvc.uab.es/people/sdey/ #do not add http://
+    google-scholar: dey.sounak
+    my-cv: sounak_cv
+    linkedin: dey-sounak
+    github: sounakdey
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket: Sounak
+    twitter: '@d_sounak'
+    reddit: 'sounak_dey'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Bengali
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
+
+    interests:
+      - item: Reading
+        link:
+
+      - item: Football
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am a Research Scholar (Doctoral Fellow) in Computer Science 
+      at Computer Vision Center, Universitat Autonoma de Barcelona,
+      Barcelona, Spain. A enthusiastic programmer and a ML/VISION reasearcher.
+      I am a researcher in Computer Vision, Pattern Recognition, Machine Learning
+      and related fields. Currently, I am a PhD. student, under the supervision 
+      of Dr. Josep Lladós and Prof. Dr. Umapada Pal. My main research interest 
+      includes computer vision, pattern recognition and image processing. In particular,
+      I work with multi-modal data embedding in common sub space, structural pattern 
+      recognition, and apply them for various applications such as natural language processing, 
+      sketch based image retrieval, object detection, recognition etc.
+education:
+    - degree: M.Sc. in Computer Vision
+      university: Computer Vision Center, Universitat Autónoma de Barcelona
+      time: 2014 – 2015
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: M.Tech in Instrumentation and Control Engineering
+      university: Calcutta University 
+      time: 2009 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: Research Assistant
+      time: 2015 - 2016
+      company: CVC, Universitat Autonoma de Barcelona, Spain
+      details: |
+        Developed various algorithms for Document Image Analysis, Image processing and Pattern Recognition.
+        Few mentionable works are as follows
+          - Signature Verification
+          - Word Spotting
+    - role: Project Linked Personnel 
+      time: 2013 - 2014
+      company: CVPR Unit, Indian Statistical Institute, India
+      details: |
+        Took part in development of various algorithms for Computer Vision, Image processing and Pattern Recognition.
+        Few mentionable works are as follows
+          - Heat Kernel Signature
+          - Fractals
+          - Multi oriented scene text spotting in multi lingual documents
+    - role: Project Linked Personnel 
+      time: 2011 - 2013
+      company: ECS, Unit Indian Statistical Institute, India
+      details: |
+          Development of stand-alone compact data logger. Study, Design and Guiding Bachelor’s Intern Student.
+          - Real-Time Atmospheric Data logger
+          - AVR architecture, NI Multisim.
+    - role: Research Trainee 
+      time: 2011 - 2011
+      company: Variable Energy Cyclotron Center, Atomic Energy of India, India
+      details: |
+        Study, design and develop instrumentation for measurement of magnetic susceptibilty.
+        Observed Frequency-adapted crossover from para-to-dia magnetization in an Ising-like dipole-dipole a model
+          - Finite Element Analysis
+          - Genetic Algorithm
+          - Material Science
+    - role: Project Engineer
+      time: 2008 - 2009
+      company: Enterprising Developers, India
+      details: |
+        PLC Drives and Conveyer Belts Installation, Development Standalone Drivers.
+          - Real Time Operating System
+          - Digital Signal Processing
+projects:
+    title: Projects
+    intro: >
+      Side projects I was associated with during my PhD.
+    assignments:
+      # - title: Velocity
+      #   link: "#hook"
+      #   tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: Consolidated Research Group DAG-CVC (SGR)
+        link: "#hook"
+        tagline: "AGAUR funded project for Image Processing, Pattern Reconition and Computer Vision related problems"
+
+      - title: Contextual Recognition of Ancient Documents (Co-Read)
+        link: "#hook"
+        tagline: "MINECO funded project Contextual Recognition of Ancient Documents (Co-READ) studies information spotting techniques to search words and shapes in ancient document images. In addition, contextual search in documents will be investigated. Context means the structural and syntactic relations between basic components (words and symbols)"
+
+      - title: CONtextualising the COntents in the Recognition of Document Images from Archives (CONCORDIA)
+        link: "#hook"
+        tagline: "MINECO funded project CONCORDIA aims to make a qualitative leap forward in the interpretation of historical documents with the incorporation of context and knowledge from the experts through advanced human interfaces"
+
+      # - place: Computer Vision Center (CVC), Barcelona, Spain
+      # - study Topics: Image Processing, Pattern Recognition and Computer Vision
+      # - roles: Study, Design and Development
+      # - funding: AGAUR
+
+      # - title: DevStudio
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      # - title: Tempo
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      # - title: Atom
+      #   link: "#"
+      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      List of my publications in this section is from different domains. 
+      Computer Vision, Pattern Recognition, Material Science, Instrumentation and Control.
+    papers:
+      - title: Fine-grained Image Classification and Retrieval by Combining Visual and Locally Pooled Textual Features
+        link: "#"
+        authors: Andres Mafla, Sounak Dey, Ali Furkan Biten, Lluis Gomez, Dimosthenis Karatzas
+        conference: Winter Application in Computer Vision(WACV), 2020
+
+      - title: Evaluation of word spotting under improper segmentation scenario
+        link: "#"
+        authors: Sounak Dey, Anguelos Nicolaou, Josep Lladós, Umapada Pal
+        conference: International Journal on Document Analysis and Research (IJDAR), 2019
+
+      - title: "Doodle to search: Practical zero-shot sketch-based image retrieval"
+        link: "#"
+        authors: Sounak Dey, Pau Riba, Anjan Dutta, Josep Llados, Yi-Zhe Song
+        conference: Computer Vision and Pattern Recognition (CVPR) (ORAL), 2019
+
+      - title: "Aligning Salient Objects to Queries: A Multi-modal and Multi-object Image Retrieval Framework"
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Suman K Ghosh, Ernest Valveny, Josep Lladós, Umapada Pal
+        conference: Asian Conference on Computer Vision (ACCV), 2018
+
+      - title: Non-deterministic Behavior of Ranking-based Metrics when Evaluating Embeddings
+        link: "#"
+        authors: Anguelos Nicolaou, Sounak Dey, Vincent Christlein, Andreas Maier, Dimosthenis Karatzas
+        conference: International Workshop on Reproducible Research in Pattern Recognition (ICPR), 2018
+
+      - title: Learning Cross-Modal Deep Embeddings for Multi-Object Image Retrieval using Text and Sketch
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Suman K Ghosh, Ernest Valveny, Josep Lladós, Umapada Pal
+        conference: International Conference on Pattern Recognition (ICPR), 2018
+
+      - title: Bringing Back Hieroglyph
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Josep Lladós, Umapada Pal
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Shallow neural network model for hand-drawn symbol recognition in multi-writer scenario
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Josep Lladós, Alicia Fornés, Umapada Pal
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Handwriting recognition by attribute embedding and recurrent neural networks
+        link: "#"
+        authors: J Ignacio Toledo, Sounak Dey, Alicia Fornés, Josep Lladós
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Improving Information Retrieval in Multiwriter Scenario by Exploiting the Similarity Graph of Document Terms
+        link: "#"
+        authors: Pau Riba, Anjan Dutta, Sounak Dey, Josep Lladós, Alicia Fornés
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Improving Information Retrieval in Multiwriter Scenario by Exploiting the Similarity Graph of Document Terms
+        link: "#"
+        authors: Pau Riba, Anjan Dutta, Sounak Dey, Josep Lladós, Alicia Fornés
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: "Signet: Convolutional siamese network for writer independent offline signature verification"
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, J Ignacio Toledo, Suman K Ghosh, Josep Lladós, Umapada Pal
+        conference: arXiV, 2017
+
+      - title: Script independent approach for multi-oriented text detection in scene image
+        link: "#"
+        authors: Sounak Dey, Palaiahnakote Shivakumara, KS Raghunandan, Umapada Pal, Tong Lu, G Hemantha Kumar, Chee Seng Chan
+        conference: Neurocomputing, 2017
+
+      - title: Local binary pattern for word spotting in handwritten historical document
+        link: "#"
+        authors: Sounak Dey, Anguelos Nicolaou, Josep Llados, Umapada Pal
+        conference: Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern, Recognition (SSPR), 2017
+
+      - title: Frequency-adapted crossover from para-to-dia magnetization in an Ising-like dipole-dipole model
+        link: "#"
+        authors: Nilangshu Das, P Barat, Sounak Dey, T Jayakumar
+        conference: Science Letters Journal, 2015
+
+      - title: Design of miniature coil to generate uniform magnetic field
+        link: "#"
+        authors: Nilangshu K Das, Parthasarathi Barat, Sounak Dey, Tammana Jayakumar
+        conference: Progress In Electromagnetics Research, 2014
+
+      - title: Innovative instrumentation to measure magnetic susceptibility
+        link: "#"
+        authors: Nilangshu K Das, Sounak Dey, Sarbajit Pal, Parthasarathi Barat
+        conference: IEEE Transactions on Magnetics, 2013
+
+      
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Matlab
+        level: 92%
+
+      - name: C, C++
+        level: 75%
+
+      - name: Shell Script
+        level: 70%
+
+      - name: Embedded C
+        level: 70%
+
+      - name: VHDL
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> for <a href="https://jekyllrb.com/" target="_blank" rel="nofollow"><img src="favicon.ico" width="65" height="25"/></a> and <a href="https://github.com/" target="_blank" rel="nofollow"><img src="github.ico" width="65" height="25"/></a> by 
+    <a href="https://sounakdey.github.io" target="_blank" rel="nofollow">Sounak Dey</a>
+# <a href="https://sounakdey.github.io/" target="_blank" rel="nofollow"><img src="sounak.ico" width="65" height="65"/></a> 
