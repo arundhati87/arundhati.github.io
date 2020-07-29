@@ -1,1 +1,0 @@
-# sounakdey.github.io
